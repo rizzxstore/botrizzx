@@ -17,7 +17,7 @@ Not have apikey? Open: https://danzzapi.xyz
 > pkg install imagemagick
 > pkg install libwebp
 > pkg install yarn
-> git clone https://github.com/Danzzxcodes/danzz-mdv1
+> git clone https://github.com/danzzcoding/danzz-mdv1
 > cd danzz-mdv1
 > yarn
 > npm start
@@ -30,7 +30,7 @@ Not have apikey? Open: https://danzzapi.xyz
 * Download And Install Ffmpeg [`Click Here`](https://ffmpeg.org/download.html)
 
 ```
-> git clone https://github.com/Danzzxcodes/danzz-mdv1
+> git clone https://github.com/danzzcoding/danzz-mdv1
 > cd danzz-mdv1
 > npm i
 > npm start
@@ -40,7 +40,7 @@ Not have apikey? Open: https://danzzapi.xyz
 1. Regist in https://replit.com
 2. Click plus button
 3. Click import from github
-4. Enter link: https://github.com/Danzzxcodes/danzz-mdv1
+4. Enter link: https://github.com/danzzcoding/danzz-mdv1
 5. Run/click green button
 
 ## Replit buildpack
@@ -55,10 +55,10 @@ pkgs install libwebp
 heroku/nodejs
 
 ```FFMPEG:```
-https://github.com/Danzzxcodes/heroku-buildpack-ffmpeg-latest.git
+https://github.com/danzzcoding/heroku-buildpack-ffmpeg-latest.git
 
 ```WEBP:```
-https://github.com/Danzzxcodes/heroku-buildpack-webp-binaries.git
+https://github.com/danzzcoding/heroku-buildpack-webp-binaries.git
 
 ---------
 
@@ -79,7 +79,7 @@ https://github.com/Danzzxcodes/heroku-buildpack-webp-binaries.git
 
 ## Social media
 <a href="https://youtube.com/DanzzCoding">Youtube</a><br>
-<a href="https://instagram.com/ramdani_real01">Instagram</a><br>
+<a href="https://instagram.com/danzzcoding">Instagram</a><br>
 
 ## Contact
 <a href="https://wa.me/6289512545999">WhatsApp</a><br>
