@@ -13,18 +13,18 @@ global.APIKeys = {
 global.apikey = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
 global.apikeyprem = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
 global.apikeyvip = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
-global.namabot = ['Danzz Botz']
-global.namaowner = ['Danzz Coding']
-global.owner = ['6289512545999']
-global.premium = ['6289512545999']
+global.namabot = ['Botz Rizzx']
+global.namaowner = ['Moch Rizky']
+global.owner = ['6285749517016']
+global.premium = ['6285749517016']
 global.packname = '© Powered By'
-global.author = 'https://danzzapi.xyz'
+global.author = 'https://Instagram/moch.rizzz_'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.prefix = ['']
 global.symbol1 = '•'
 global.symbol2 = '>'
-global.wm = '© Danzz Coding'
+global.wm = '© Moch Rizzx'
 global.mess = {
     success: 'Success ✓',
     admin: 'Fitur Khusus Admin Group!',
