@@ -43,7 +43,7 @@ global.limitawal = {
         premium: "unlimited"
 }
 global.thumb = fs.readFileSync('./media/img/1.jpg')
-global.qris = { url: 'https://telegra.ph/file/cd0372ebf13b265f3feb5.jpg' }
+global.qris = { url: 'https://telegra.ph/Scan-12-13' }
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
